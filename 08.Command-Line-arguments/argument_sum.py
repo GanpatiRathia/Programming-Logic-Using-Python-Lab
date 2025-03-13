@@ -1,7 +1,7 @@
 import sys
 
 sum = 0
-size_args = len(sys.argv) 
+size_args = len(sys.argv)
 
 len_argv = len(sys.argv)
 
