@@ -1,3 +1,8 @@
+
+# The dir() function is used to list all attributes and methods 
+# of an object, module, class, or variable.
+
+
 class Person:
   name = "John"
   age = 36
